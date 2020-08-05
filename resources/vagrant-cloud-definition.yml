@@ -1,0 +1,3 @@
+clouds:
+  vagrant-cloud:
+    type: manual
